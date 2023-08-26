@@ -4,8 +4,8 @@ Welcome to my whimsical corner of GitHub, where pixels meet passion, and code da
 
 ## About Me 🌸
 
-🌼 **Name**: Kelly Tan
-🌍 **Location**: Exploring the digital universe
+🌼 **Name**: Kelly Tan  
+🌍 **Location**: Exploring the digital universe  
 🚀 **Interests**: Coding, tech wizardry, and bringing ideas to life
 
 **Let's embark on a magical coding journey together! ✨**
