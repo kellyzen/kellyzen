@@ -1,6 +1,7 @@
 # 🌟 Hi There, I'm Kelly! 🌟
 
-Welcome to my whimsical corner of GitHub, where pixels meet passion, and code dances to the rhythm of creativity. 🎉
+Welcome to my whimsical corner of GitHub, where pixels meet passion, and code dances to the rhythm of creativity. 🎉  
+Do visit my [portfolio webpage](https://kellyzen.github.io/) page too!!!
 
 ## About Me 🌸
 
